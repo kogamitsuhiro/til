@@ -1,5 +1,5 @@
 # Webpacker
-
+- 参照: パーフェクトRuby on Rails[増補改訂版] P172
 ## webpackとWebpackerは別もの？
 結論言うと、別もの。
 
