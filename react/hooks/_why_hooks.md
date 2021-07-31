@@ -15,3 +15,13 @@ Reactのドキュメントでも、クラスコンポーネントは使い続け
 
 ## ドキュメント
 https://ja.reactjs.org/docs/hooks-intro.html
+
+
+## hookの言葉的な意味
+> hook into : ～に接続する
+
+から名付けられたみたいです。
+
+“(hook以前は、stateなどReactの機能を使用できなかった)関数コンポーネントにReactの機能を接続するための仕組み”
+
+と捉えると腑に落ちる。
