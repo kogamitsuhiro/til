@@ -20,7 +20,7 @@ controllerで、jsonを返すときにシリアライザーを指定。
 ```ruby
 def show
   render(
-    json: @users,
+    json: @user,
     serializer: Api::V1::HogeSerializer
   )
 end
